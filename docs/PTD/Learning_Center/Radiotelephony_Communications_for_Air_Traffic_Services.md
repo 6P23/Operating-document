@@ -509,7 +509,7 @@ B738，读作：B738 或 B737 - 800。
 
 !!! Notse
 
-    注：机坪席位（即RMP/A_GND，例如ZSPD_A_RMP/ZSPD_A_GND）不提供放行服务；
+    注：机坪席位（即RMP/A_GND，例如ZSPD_RMP/ZSPD_A_GND）不提供放行服务；
 
 ---
 
