@@ -11,22 +11,20 @@ Contribution Guidelines
 #### 基础库
 
 | Package  | Version |
-| -------- | ------- |
-| zensical | 0.0.9   |
+| -------- |---------|
+| zensical | 0.0.10  |
 
 #### 依赖库
 
 ```
-Package            Version
------------------- -------
-click              8.3.0
-colorama           0.4.6
-deepmerge          2.0
-Markdown           3.10
-pip                25.3
-Pygments           2.19.2
-pymdown-extensions 10.16.1
-PyYAML             6.0.3
+click==8.3.1
+colorama==0.4.6
+deepmerge==2.0
+Markdown==3.10
+Pygments==2.19.2
+pymdown-extensions==10.17.1
+PyYAML==6.0.3
+zensical==0.0.9
 ```
 
 ####  部署教程
