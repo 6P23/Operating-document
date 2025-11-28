@@ -155,11 +155,11 @@
     默认情况下，所有席位均为Topdown模式，如该管制席位不希望运行Topdown，则应在ATC INFO中注明：
     
     ```
-    [Operating] XXXX_XXX Airspace Topdown Operating mode is UNAVBL.
+    Topdown UNAVBL.
     ```
     例如：
     ```
-    [Operating] ZBAA_CTR Airspace Topdown Operating mode is UNAVBL.
+    Topdown UNAVBL
     ```
 
 
