@@ -228,12 +228,6 @@ A、B、C、D、E、G 类空域明确的飞行要求适用 有人驾驶航空器
 
 ![航路_1.4](./assets/Schematic_Diagram_of_Airspace_Classification.jpeg)
 
-
-
-## 未完待续
-
-
-
 ## 参考资料
 
 [1] [CAAC.航路_1.4.1空中交通服务空域分类.pdf](./References/航路_1.4.1空中交通服务空域分类.pdf)
