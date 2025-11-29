@@ -1,0 +1,12 @@
+.cache/
+.idea/
+.git/
+.vscode/
+.venv/
+.github/
+site/
+.gitignore
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+DevEnv-Launcher.bat
+LICENSE
