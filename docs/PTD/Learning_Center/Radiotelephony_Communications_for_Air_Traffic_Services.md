@@ -671,9 +671,9 @@ P: 进跑道35R等待，(目视前机A321离地后)，东方5155。
 
 METAR ZSPD 301200Z 19002MPS CAVOK 13/05 Q1017 NOSIG
 
-A: 东方5155，地面风190，2米/秒，（修正海压1017），跑道35R，可以起飞
+A: 东方5155，地面风190，2米/秒，（修正海压1017），跑道35R，(B1可用起飞距离3780米)，可以起飞
 
-> CES5155, Surface wind 190 degress, 2 meters per second, runway 35R, cleared for take-off.
+> CES5155, Surface wind 190 degress, 2 meters per second, runway 35R, (intersection B1, take-off distance available 3780m), cleared for take-off.
 
 P: 跑道35R，可以起飞，东方5155.
 
@@ -687,7 +687,99 @@ A: 东方5155，联系上海进近120.300。
 
 > CES5155, Contact Shanghai Approach 120.300.
 
-P: 东方
+P: 联系上海进近120.300，东方5155。
+
+> Contact Shanghai Approach 120.300, CES5155.
+
+---
+
+##### 离场
+
+P: 上海进近，东方5515，跑道35R离地，现在通过高度300，上900。
+
+> Shanghai Approach, CES5515, runway 35R airborne, passing 300m to 900m.
+
+A: 东方5515，上海进近，雷达识别了，程序离港，上到修正海压3000，（终端区）修正海压1017。
+
+> CES5515, Shanghai Approach, radar identified, follow SID, climb and maintain 3000 on (terminal) QNH1017.
+
+P: 程序离港，上到修正海压3000，（终端区）修正海压1017，东方5515.
+
+> Follow SID, climb and maintain 3000 on (terminal) QNH1017, CES5515.
+
+---
+
+###### 减表速
+
+A: 东方5155，证实当前表速。
+
+> CES5155, report indicated air speed.
+
+P: 表速250，东方5155。
+
+> Speed 250 knots, CES5155.
+
+A: 东方5515，由于间隔，减表速200。
+
+> CES5515, reduce speed to 200 knots.
+
+P: 减表速200，东方5155.
+
+> reduce speed to 200 knots, CES5515.
+
+---
+
+A: 东方5515，继续上到标准气压6000。
+
+> CES5515, Continue Climb and maintain 6000m on standard.
+
+P: 上标准气压6000，东方5515.
+
+> Climb and maintain 6000m on standard, CES5515.
+
+A: 东方5155，联系上海124.550。
+
+> CES5515, Contact Shanghai 124.550.
+
+P: 联系上海124.550，东方5155.
+
+> Contact Shanghai 124.550, CES5155.
+
+---
+
+##### 区域
+
+P: 上海，东方5155，保持6000。
+
+> Shanghai, CES5155, maintain 6000m.
+
+A: 东方5155，上海雷达识别了，上到标准气压104，自主领航。
+
+> CES5155, Shanghai radar identified, climb and maintain 10,400m, own navigate.
+
+P: 上到标准气压104自主领航，东方5155。
+
+> Climb and maintain 10,400m, own navigate, CES5155.
+
+A: 东方5155，联系北京125.900。
+
+> CES5155, Contact Beijing 125.900.
+
+P: 联系北京125.900，东方5155.
+
+> Contact Beijing 125.900, CES5155.
+
+P: 北京，东方5155，保持6000。
+
+> Beijing, CES5155, maintain 10,400m.
+
+A: 东方5155，北京雷达识别了。
+
+> CES5155, Beijing radar identified.
+
+P: 东方5155。
+
+> CES5155.
 
 ---
 
