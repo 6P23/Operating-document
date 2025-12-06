@@ -114,13 +114,13 @@ pygments_lang_class = true
 icon = "fontawesome/brands/github"
 link = "https://github.com/apocfly/Operating-document"
 
-[[project.extra.social]]
-icon = "fontawesome/brands/bilibili"
-link = "https://space.bilibili.com/3494374067407653"
-
-[[project.extra.social]]
-icon = "fontawesome/brands/tiktok"
-link = "https://v.douyin.com/97uoxOsUrcA"
+#[[project.extra.social]]
+#icon = "fontawesome/brands/bilibili"
+#link = "https://space.bilibili.com/3494374067407653"
+#
+#[[project.extra.social]]
+#icon = "fontawesome/brands/tiktok"
+#link = "https://v.douyin.com/97uoxOsUrcA"
 
 [[project.extra.social]]
 icon = "fontawesome/brands/qq"
