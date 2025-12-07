@@ -1,4 +1,4 @@
-**# 贡献指南
+# 贡献指南
 
 Contribution Guidelines
 
@@ -245,4 +245,4 @@ Document - 文档，存放上述Markdown文件的docs、pdf格式文件
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations**
+[translations]: https://www.contributor-covenant.org/translations
