@@ -12,7 +12,7 @@ Contribution Guidelines
 
 | Package  | Version |
 | -------- |---------|
-| zensical | 0.0.10  |
+| zensical | 0.0.11  |
 
 #### 依赖库
 
@@ -24,7 +24,6 @@ Markdown==3.10
 Pygments==2.19.2
 pymdown-extensions==10.17.1
 PyYAML==6.0.3
-zensical==0.0.9
 ```
 
 ####  部署教程

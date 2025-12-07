@@ -1,4 +1,4 @@
-# 贡献指南
+**# 贡献指南
 
 Contribution Guidelines
 
@@ -12,13 +12,11 @@ Contribution Guidelines
 
 | Package  | Version |
 | -------- |---------|
-| zensical | 0.0.10  |
+| zensical | 0.0.11  |
 
 #### 依赖库
 
 ```
-Package            Version
------------------- -------
 click==8.3.1
 colorama==0.4.6
 deepmerge==2.0
@@ -26,7 +24,6 @@ Markdown==3.10
 Pygments==2.19.2
 pymdown-extensions==10.17.1
 PyYAML==6.0.3
-zensical==0.0.9
 ```
 
 ####  部署教程
@@ -248,4 +245,4 @@ Document - 文档，存放上述Markdown文件的docs、pdf格式文件
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+[translations]: https://www.contributor-covenant.org/translations**
