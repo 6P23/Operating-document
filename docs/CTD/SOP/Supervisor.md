@@ -4,13 +4,13 @@ Supervisor standard operating procedure
 
 
 
-## Supervisor专用扇区下载和使用
+### Supervisor专用扇区下载和使用
 
 1. 进入[Github Release](https://github.com/apocfly/Supervisor-Sector-Package/releases)，进行Supervisor专用扇区下载
 
 !!! Note
     
-    此扇区不同于其他常规类型的扇区，通常不需要进行定期的更新。
+    此扇区不同于其他常规类型的扇区，通常**不需要**进行定期的更新。
 
 2. 打开"Connection dialog"，这Callsign中**点击**“▽”，**选择**席位
 
@@ -22,7 +22,7 @@ Supervisor standard operating procedure
 
 
 
-## ".wallop" 标准处理流程
+### ".wallop" 标准处理流程
 
 1. 这底部聊天框中查阅"SUP"频道。
 
@@ -32,53 +32,63 @@ Supervisor standard operating procedure
 
 2. 使用 `.chat XXXX_XXX` 指令，开启和这位用户的私聊
 
+	例如：
+	```
+	.chat ZBAA_APP
+	```
+
+	!!! Warning
+
+		严禁在SUP频道中直接回复消息
+   	
+		!!! Note
+			由于SUP频道的消息特性在: 
+   		
+			SUP -> Pilot/Controller: 公共频道; 
+   		
+			Pilot/Controller -> SUP频道，仅在线SUP能够查阅。
+
+3. 使用`.vis`打视程点
+
     例如：
+
     ```
-    .chat ZBAA_APP
+    .vis ZBAA
+    ; 此时打的视程点为管制员附近的机场ICAO，例如：ZBAA_APP -> ZBAA
     ```
 
-    !!! Warning
+4. 依次输入：
 
-        严禁在SUP频道中直接回复消息
-        
-        !!! Note
-            由于SUP频道的消息特性在: 
-        	
-        	SUP -> Pilot/Controller: 公共频道; 
-        	
-        	Pilot/Controller -> SUP频道，仅在线SUP能够查阅。
+    ```
+    .hello	
+    ; 填写$2的内容
+    ; Hello, my name is $2, and I'm one of the Network Superivisors.
+    
+    ====================================================================================
+    
+    .how
+    ; How can I help you.
+    ```
 
-3. 依次输入：
-  ```
-  .hello	
-  ; 填写$2的内容
-  ; Hello, my name is $2, and I'm one of the Network Superivisors.
-  
-  ====================================================================================
-  
-  .how
-  ; How can I help you.
-  ```
-
-4. 视情况按照 [CoC](../../General/OPDOC-General-202502-R2-SC.md) 相应条例，对涉事的管制员/机组进行处理
+5. 视情况按照 [CoC](../../General/OPDOC-General-202502-R2-SC.md) 相应条例，对涉事的管制员/机组进行处理
 
     ![image-20251129002053473](./assets/image-20251129002053473.png)
 
-5. 最后，使用给予对方结束语
+6. 最后，使用给予对方结束语
 
-	```
-	.close
-	; The issue has been colsed.
-	
-	====================================================================================
-	
-	.enjoyp
-	; Thank you very much, Enjoy your flight!
-	```
+  ```
+  .close
+  ; The issue has been colsed.
+  
+  ====================================================================================
+  
+  .enjoyp
+  ; Thank you very much, Enjoy your flight!
+  ```
 
 
 
-## 在线检查 标准操作流程
+### 在线检查 标准操作流程
 
 1. 同上使用 `.chat` 指令步骤，像疑似挂机的管制员发送以下：
 
@@ -101,3 +111,9 @@ Supervisor standard operating procedure
 	.enjoya
 	; It was just a routine check if you're still behind the radar screen - thank for your time, enjoy your controllor!
 	```
+
+
+
+## 后记
+
+敬畏生命，敬畏规章，敬畏职责。
