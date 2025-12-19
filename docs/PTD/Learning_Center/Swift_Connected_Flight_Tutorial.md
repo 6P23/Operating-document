@@ -110,7 +110,7 @@ Swift Connected Flight Tutorial
 
 AIG映射包下载后需要手动解压到MSFS的community目录下，注意不要出现文件夹嵌套
 
-百度网盘：https://pan.baidu.com/s/1fBCBvSGkq6pUC6d7jYa2lA?pwd=9jkc
+百度网盘：[https://pan.baidu.com/s/1fBCBvSGkq6pUC6d7jYa2lA?pwd=9jkc](https://pan.baidu.com/s/1fBCBvSGkq6pUC6d7jYa2lA?pwd=9jkc)
 
 ---
 
