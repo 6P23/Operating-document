@@ -12,7 +12,7 @@ Contribution Guidelines
 
 | Package  | Version |
 | -------- |---------|
-| zensical | 0.0.11  |
+| zensical | 0.0.13  |
 
 #### 依赖库
 
@@ -22,7 +22,7 @@ colorama==0.4.6
 deepmerge==2.0
 Markdown==3.10
 Pygments==2.19.2
-pymdown-extensions==10.17.1
+pymdown-extensions==10.19.1
 PyYAML==6.0.3
 ```
 
