@@ -30,7 +30,9 @@
 | Chrome等网络浏览器 | [www.apocfly.com](https://www.apocfly.com)                   |
 | 文档站             | [docs.apocfly.com](https://docs.apocfly.com)                 |
 | 模飞资源网盘       | [file.apocfly.com/apocfly](https://file.apocfly.com/apocfly) |
-| Github             | [github.com/apocfly](https://github.com/apocfly) |
+| Github             | [github.com/apocfly](https://github.com/apocfly)             |
+| Kook               | [kook.vip/DYfAfX](https://kook.vip/DYfAfX)                   |
+| Discord            | [discord.gg/sxV48j2qGn](https://discord.gg/sxV48j2qGn)       |
 
 
 
@@ -57,8 +59,6 @@
 - **相同方式共享** — 若您再混合、转换或者基于本作品进行创作，必须基于与原先许可协议相同的许可分发。
 
 完整协议请参见 [https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans)。
-
----
 
 
 

@@ -43,8 +43,6 @@
 
 完整协议请参见 [https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans)。
 
----
-
 
 
 ## 社区行为准则
