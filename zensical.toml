@@ -54,7 +54,11 @@ nav = [
     { "总则" = [
         "General/index.md",
         {"行为准则" = "General/OPDOC-General-202502-R2-SC.md"},
-        {"标准文件发行格式" = "General/OPDOC-General-202501-R3-SC.md"}
+        {"标准文件发行格式" = "General/OPDOC-General-202501-R3-SC.md"},
+        {"会议记录" = [
+            {"2025年第一次全体职员会议" = "General/Meeting/OPDOC-MT-202501-R0-SC.md"},
+            {"2025年管制员训练部会议" = "General/Meeting/OPDOC-MT-202502-R0-SC.md"},
+        ] }
     ]},
     { "管制员训练部" = [
         "CTD/index.md",
@@ -88,15 +92,15 @@ nav = [
     ]},
     { "技术" = [
         "Programming/index.md",
+        {"Simple FSD" = "Programming/FSD/index.md"},
+        {"China-Mainland-Sector" = "Programming/Sectors/index.md"},
         {"Operating-document" = [
 #            "",
             {"贡献者公约" = "CODE_OF_CONDUCT.md"},
             {"CC BY-SA 4.0 License" = "LICENSE.md"},
             {"贡献指南" = "Contribution_guidelines.md"},
             {"Github主页" = "https://github.com/apocfly/Operating-document"}
-        ]},
-        {"Simple FSD" = "Programming/FSD/index.md"},
-        {"China-Mainland-Sector" = "Programming/Sectors/index.md"}
+        ]}
     ]},
 
 ]
