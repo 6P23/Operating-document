@@ -1,4 +1,4 @@
-# China-Mainland-sector 开源扇区 (中国大陆)
+# China-Mainland-Sector 开源扇区 (中国大陆)
 
 [China-Mainland-Sector github](https://github.com/Master-Gui-Studio/China-Mainland-Sector)
 

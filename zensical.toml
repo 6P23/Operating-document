@@ -29,7 +29,7 @@ features = [
     "content.code.copy",
     "content.code.select",
     "content.code.annotate",
-#    "navigation.tabs",  # 将导航栏放置于顶部
+    "navigation.tabs",  # 将导航栏放置于顶部
 #    "navigation.indexes",
 #    "toc.integrate"
 ]
@@ -48,24 +48,58 @@ copyright = """本项目的全部文字在 <a href="https://creativecommons.org/
 
 extra_javascript = ["javascripts/feedback.js"]
 
-#nav = [
-#    { "主页" = "index.md" },
-#    { "教程目录" = "Contents.md" },
-#    { "管制员训练" = [
-#        "CTD/index.md",
-#        {"管制员训练·主页" = "/CTD"},
-#        {"管制员培训大纲" = "/CTD/OPDOC-CTD-202501-R4-SC"},
-#        {"Simple FSD" = "Programming/FSD/index.md"},
-#        {"China-Mainland-sector" = "Programming/Sectors/index.md"}
-#    ]},
-#    { "技术" = [
-#        "Programming/index.md",
-#        {"技术·主页" = "/Programming"},
-#        {"Operating-document" = ""},
-#        {"Simple FSD" = "Programming/FSD/index.md"},
-#        {"China-Mainland-sector" = "Programming/Sectors/index.md"}
-#    ]}
-#]
+nav = [
+    { "主页" = "index.md" },
+    { "教程目录" = "Contents.md" },
+    { "总则" = [
+        "General/index.md",
+        {"行为准则" = "General/OPDOC-General-202502-R2-SC.md"},
+        {"标准文件发行格式" = "General/OPDOC-General-202501-R3-SC.md"}
+    ]},
+    { "管制员训练部" = [
+        "CTD/index.md",
+        {"管制员培训大纲" = "CTD/OPDOC-CTD-202501-R4-SC.md"},
+        {"管制员训练部·学习中心" = [
+            "CTD/Learning_Center/index.md",
+            {"Swift 连飞教程" = "PTD/Learning_Center/Swift_Connected_Flight_Tutorial"},
+            {"陆空对话（空中交通无线电通话用语）" = "PTD/Learning_Center/Radiotelephony_Communications_for_Air_Traffic_Services"},
+            {"Metar报文解读" = "PTD/Learning_Center/References/%E5%9B%BD%E9%99%85%E6%B0%94%E8%B1%A1%E6%8A%A5%E6%96%87%E8%A7%A3%E7%A0%81.pdf"},
+            {"eAIP航图解读" = "PTD/Learning_Center/References/%E8%88%AA%E5%9B%BE%E8%AF%86%E8%AF%BB.pdf"},
+            {"RVSM飞行高度层" = "PTD/Learning_Center/RVSM_flight_level"},
+            {"飞行情报区" = "PTD/Learning_Center/FIR"},
+            {"空域" = "PTD/Learning_Center/Airspace"},
+            {"班机航路的查询教程" = "PTD/Learning_Center/Airlines_flight_route"},
+            {"先导宣传片" = "CTD/Learning_Center/teaser_trailer.md"}
+        ]}
+    ]},
+    { "飞行员训练部" = [
+#        "PTD/index.md",
+        {"飞行员训练部·学习中心" = [
+            "PTD/Learning_Center/index.md",
+            {"Swift 连飞教程" = "PTD/Learning_Center/Swift_Connected_Flight_Tutorial.md"},
+            {"陆空对话（空中交通无线电通话用语）" = "PTD/Learning_Center/Radiotelephony_Communications_for_Air_Traffic_Services.md"},
+            {"Metar报文解读" = "PTD/Learning_Center/References/%E5%9B%BD%E9%99%85%E6%B0%94%E8%B1%A1%E6%8A%A5%E6%96%87%E8%A7%A3%E7%A0%81.pdf"},
+            {"eAIP航图解读" = "PTD/Learning_Center/References/%E8%88%AA%E5%9B%BE%E8%AF%86%E8%AF%BB.pdf"},
+            {"RVSM飞行高度层" = "PTD/Learning_Center/RVSM_flight_level.md"},
+            {"飞行情报区" = "PTD/Learning_Center/FIR.md"},
+            {"空域" = "PTD/Learning_Center/Airspace.md"},
+            {"班机航路的查询教程" = "PTD/Learning_Center/Airlines_flight_route.md"}
+        ]}
+    ]},
+    { "技术" = [
+        "Programming/index.md",
+        {"Operating-document" = [
+#            "",
+            {"贡献者公约" = "CODE_OF_CONDUCT.md"},
+            {"CC BY-SA 4.0 License" = "LICENSE.md"},
+            {"贡献指南" = "Contribution_guidelines.md"},
+            {"Github主页" = "https://github.com/apocfly/Operating-document"}
+        ]},
+        {"Simple FSD" = "Programming/FSD/index.md"},
+        {"China-Mainland-Sector" = "Programming/Sectors/index.md"}
+    ]},
+
+]
 
 # [project.extra.analytics]
 # provider: custom
