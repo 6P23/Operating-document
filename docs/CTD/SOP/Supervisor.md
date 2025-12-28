@@ -76,21 +76,21 @@ Supervisor standard operating procedure
 
 6. 最后，使用给予对方结束语
 
-  ```
-  .close
-  ; The issue has been colsed.
-  
-  ====================================================================================
-  
-  .enjoyp
-  ; Thank you very much, Enjoy your flight!
-  ```
+	```
+	.close
+	; The issue has been colsed.
+	
+	====================================================================================
+	
+	.enjoyp
+	; Thank you very much, Enjoy your flight!
+	```
 
 
 
 ### 在线检查 标准操作流程
 
-1. 同上使用 `.chat` 指令步骤，像疑似挂机的管制员发送以下：
+1. 同上使用 `.chat` 指令步骤，向疑似挂机的管制员发送以下：
 
 	```
 	.res

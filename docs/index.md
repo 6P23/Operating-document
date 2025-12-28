@@ -21,10 +21,9 @@
 
 ## 官方社群
 
-### 网页书签
-
-| 名称               | 服务器地址                                                   |
+| 名称               | 地址                                                         |
 | ------------------ | ------------------------------------------------------------ |
+| QQ群聊             | [1074746258](https://qm.qq.com/q/L7ywZCrNWa)                 |
 | TeamSpeak          | [ts.apocfly.com](ts3server://ts.apocfly.com)                 |
 | EuroScope / Swift  | fsd.apocfly.com                                              |
 | Chrome等网络浏览器 | [www.apocfly.com](https://www.apocfly.com)                   |

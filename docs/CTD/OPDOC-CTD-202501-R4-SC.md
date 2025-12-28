@@ -617,7 +617,7 @@ Sweatbox文本应含有对向含有潜在冲突的航空器，**10~12架次。**
 
 - 区域上管时长累计达到50小时以上
 
-- 获得“Control 1 Under Mentoring 塔台管制员（见习）”管制权限
+- 获得“Control 1 Under Mentoring 区域管制员（见习）”管制权限
 
 - 通过C1在线训练考核
 
