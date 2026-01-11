@@ -56,7 +56,7 @@ SHA256: eab9e0c1a7134643e5f7116b7e0e58faffb20d6db528f8b333d2c2b5d1ab68ae
 	
 	![image011](./TeamSpeak_assets/image011.png)
 
-5. 完成安装，弹出以下界面并关闭[image012](./TeamSpeak_assets/image012.png)
+5. 完成安装，弹出以下界面并关闭
 
 	![image013](./TeamSpeak_assets/image013.png)
 
@@ -80,18 +80,31 @@ SHA256: eab9e0c1a7134643e5f7116b7e0e58faffb20d6db528f8b333d2c2b5d1ab68ae
 
 ## 使用方法
 
-![image018](./TeamSpeak_assets/image018.png)
+1. 点击 连接(^^C^^)
 
-![image019](./TeamSpeak_assets/image019.png)
+	![image018](./TeamSpeak_assets/image018.png)
 
-![image020](./TeamSpeak_assets/image020.png)
+2. 点击 连接至服务器(^^C^^)
 
-![image021](./TeamSpeak_assets/image021.png)
+	![image019](./TeamSpeak_assets/image019.png)
 
-![image022](./TeamSpeak_assets/image022.png)
+3. 输入以下信息:
 
----
+	- 服务器别名或地址(^^A^^) : ts.apocfly.com
+    - 昵称(^^N^^) : 填写自己注册的CID
 
-未完待续
+	![image021](./TeamSpeak_assets/image021.png)
 
----
+4. 连接成功！
+
+	![image022](./TeamSpeak_assets/image022.png)
+
+5. 设置PTT(Push To Talk)，依次进入:
+
+	`音频输入` -> `Default` -> `按键通话`，设置一个按键
+
+	![image023](./TeamSpeak_assets/image023.png)
+
+6. 点击右下角的`OK`，完成设置
+
+The end.

@@ -1,3 +1,6 @@
+[project.extra]
+homepage = "https://pilot.apocfly.com"
+
 [project.theme]  # 项目主题
 variant = "modern"
 font.code = "JetBrains Mono"
@@ -115,7 +118,8 @@ nav = [
 #        "CTD/SOP/index.md",
         {"管制员训练部" = [
             {"在线管理员 Supervisor 标准操作流程" = "CTD/SOP/Supervisor.md"},
-            {"管制面试 Interview 标准操作流程）" = "CTD/SOP/Interview.md"},
+            {"管制面试 Interview 标准操作流程" = "CTD/SOP/Interview.md"},
+            {"EuroScope 标准操作流程" = "CTD/SOP/EuroScope.md" },
         ]},
     ]},
     { "技术" = [
@@ -137,8 +141,6 @@ nav = [
 # provider: custom
 # property: foobar
 
-[project.extra]
-homepage = "https://www.apocfly.com"
 
 [project.extra.consent]
 title = "Cookie 许可"
