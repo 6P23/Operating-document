@@ -82,17 +82,17 @@ nav = [
         {"管制员培训大纲" = "CTD/OPDOC-CTD-202501-R4-SC.md"},
         {"管制员训练部·学习中心" = [
             "CTD/Learning_Center/index.md",
-            {"Swift 连飞教程" = "../PTD/Learning_Center/Swift_Connected_Flight_Tutorial/"},
-            {"陆空对话（空中交通无线电通话用语）" = "../PTD/Learning_Center/Radiotelephony_Communications_for_Air_Traffic_Services/"},
-            {"Metar报文解读" = "PTD/Learning_Center/References/%E5%9B%BD%E9%99%85%E6%B0%94%E8%B1%A1%E6%8A%A5%E6%96%87%E8%A7%A3%E7%A0%81.pdf"},
-            {"eAIP航图解读" = "PTD/Learning_Center/References/%E8%88%AA%E5%9B%BE%E8%AF%86%E8%AF%BB.pdf"},
-            {"RVSM飞行高度层" = "../PTD/Learning_Center/RVSM_flight_level/"},
-            {"飞行情报区" = "../PTD/Learning_Center/FIR/"},
-            {"空域" = "../PTD/Learning_Center/Airspace/"},
-            {"班机航路的查询教程" = "../PTD/Learning_Center/Airlines_flight_route/"},
-            {"应答机分配" = "CTD/Learning_Center/Squawk.md"},
+            {"Swift 连飞教程" = "../../PTD/Learning_Center/Swift_Connected_Flight_Tutorial.md"},
+            {"陆空对话（空中交通无线电通话用语）" = "../../PTD/Learning_Center/Radiotelephony_Communications_for_Air_Traffic_Services/"},
+            {"Metar报文解读" = "../../PTD/Learning_Center/References/%E5%9B%BD%E9%99%85%E6%B0%94%E8%B1%A1%E6%8A%A5%E6%96%87%E8%A7%A3%E7%A0%81.pdf"},
+            {"eAIP航图解读" = "../../PTD/Learning_Center/References/%E8%88%AA%E5%9B%BE%E8%AF%86%E8%AF%BB.pdf"},
+            {"RVSM飞行高度层" = "../../PTD/Learning_Center/RVSM_flight_level.md"},
+            {"飞行情报区" = "../../PTD/Learning_Center/FIR.md"},
+            {"空域" = "../../PTD/Learning_Center/Airspace.md"},
+            {"班机航路的查询教程" = "../../PTD/Learning_Center/Airlines_flight_route.md"},
+            {"应答机分配" = "./CTD/Learning_Center/Squawk.md"},
             {"PBN进离场" = "http://www.caac.gov.cn/XXGK/XXGK/ZCJD/202505/P020250515551921206047.pdf"},
-            {"先导宣传片" = "CTD/Learning_Center/teaser_trailer.md"}
+            {"先导宣传片" = "./CTD/Learning_Center/teaser_trailer.md"}
         ]},
     ]},
     { "飞行员训练部" = [
@@ -100,7 +100,7 @@ nav = [
         {"飞行员训练部·学习中心" = [
             "PTD/Learning_Center/index.md",
             {"Swift 连飞教程" = "PTD/Learning_Center/Swift_Connected_Flight_Tutorial.md"},
-            {"TeamSpeak 使用教程" = "PTD/Learning_Center/TeamSpeak_Tutorial.md"},
+            {"TeamSpeak 3 使用教程" = "PTD/Learning_Center/TeamSpeak_Tutorial.md"},
             {"陆空对话（空中交通无线电通话用语）" = "PTD/Learning_Center/Radiotelephony_Communications_for_Air_Traffic_Services.md"},
             {"Metar报文解读" = "PTD/Learning_Center/References/%E5%9B%BD%E9%99%85%E6%B0%94%E8%B1%A1%E6%8A%A5%E6%96%87%E8%A7%A3%E7%A0%81.pdf"},
             {"eAIP航图解读" = "PTD/Learning_Center/References/%E8%88%AA%E5%9B%BE%E8%AF%86%E8%AF%BB.pdf"},
