@@ -12,7 +12,7 @@ Tutorial-Contents
 
 - TeamSpeak: [ts.apocfly.com](ts3server://ts.apocfly.com)
 - EuroScope / Swift: fsd.apocfly.com
-- Chrome等网络浏览器: [www.apocfly.com](https://www.apocfly.com)
+- Chrome等网络浏览器: [pilot.apocfly.com](https://pilot.apocfly.com)
 - 文档站: [docs.apocfly.com](https://docs.apocfly.com)
 - 模飞资源网盘: [file.apocfly.com/apocfly](https://file.apocfly.com/apocfly)
 - Github: [github.com/apocfly](https://github.com/apocfly)
