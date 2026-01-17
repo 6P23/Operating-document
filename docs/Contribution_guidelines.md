@@ -13,10 +13,12 @@ Contribution Guidelines
 | Package  | Version |
 | -------- |---------|
 | zensical | 0.0.15  |
+| pymdown-extensions | 10.20 |
 
 #### 依赖库
 
 ```
+click==8.3.1
 colorama==0.4.6
 deepmerge==2.0
 ghp-import==2.1.0
