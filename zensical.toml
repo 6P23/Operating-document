@@ -1,5 +1,5 @@
 [project.extra]
-homepage = "https://pilot.apocfly.com"
+homepage = "https://www.apocfly.com"
 
 [project.theme]  # 项目主题
 variant = "modern"
@@ -93,9 +93,9 @@ nav = [
             {"飞行情报区" = "../../PTD/Learning_Center/FIR/"},
             {"空域" = "../../PTD/Learning_Center/Airspace/"},
             {"班机航路的查询教程" = "../../PTD/Learning_Center/Airlines_flight_route/"},
-            {"应答机分配" = "./CTD/Learning_Center/Squawk.md"},
+            {"应答机分配" = "CTD/Learning_Center/Squawk.md"},
             {"PBN进离场" = "http://www.caac.gov.cn/XXGK/XXGK/ZCJD/202505/P020250515551921206047.pdf"},
-            {"先导宣传片" = "./CTD/Learning_Center/teaser_trailer.md"}
+            {"先导宣传片" = "CTD/Learning_Center/teaser_trailer.md"}
         ]},
     ]},
     { "飞行员训练部" = [
@@ -117,9 +117,9 @@ nav = [
     {"标准运行程序·SOP" = [
 #        "CTD/SOP/index.md",
         {"管制员训练部" = [
-            {"在线管理员 Supervisor 标准操作流程" = "CTD/SOP/Supervisor.md"},
-            {"管制面试 Interview 标准操作流程" = "CTD/SOP/Interview.md"},
             {"EuroScope 标准操作流程" = "CTD/SOP/EuroScope.md" },
+            {"管制面试 Interview 标准操作流程" = "CTD/SOP/Interview.md"},
+            {"在线管理员 Supervisor 标准操作流程" = "CTD/SOP/Supervisor.md"},
         ]},
     ]},
     { "技术" = [

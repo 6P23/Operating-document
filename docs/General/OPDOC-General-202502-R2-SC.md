@@ -61,12 +61,13 @@
 
 成员仅能使用以下软件连接至网络：
 
-| 名称               | 服务器地址                                         |
-| ------------------ |-----------------------------------------------|
-| TeamSpeak          | ts.apocfly.com                                |
-| EuroScope          | fsd.apocfly.com                               |
-| Swift              | fsd.apocfly.com                               |
-| Chrome等网络浏览器 | [pilot.apocfly.com](https://pilot.apocfly.com/) |
+| 名称                                 | 服务器地址                                       |
+|------------------------------------|---------------------------------------------|
+| TeamSpeak                          | ts.apocfly.com                              |
+| [EuroScope](https://euroscope.hu/) | fsd.apocfly.com                             |
+| [Swift](https://github.com/swift-project/pilotclient)                          | fsd.apocfly.com                             |
+| Cpilot                             | fsd.apocfly.com                             |
+| Chrome等网络浏览器                       | [www.apocfly.com](https://www.apocfly.com/) |
 
 2.7 不得多开：任何管制员上线的会员仅允许在同一时间段，使用1个作为机组或管制的连接，例如：同时以管制员的1个连接和同时以机组的1个连接，这是不允许的；同时以两个管制员身份连接也是不允许的。但同时以OBS的1个连接和同时以机组的1个连接，这是合规的。
 
