@@ -212,6 +212,7 @@ line_spans = "__span"
 pygments_lang_class = true
 [project.markdown_extensions.pymdownx.inlinehilite]
 [project.markdown_extensions.pymdownx.keys]
+key_map= {"lbutton_cn" = "鼠标左键", "rbutton_cn" = "鼠标右键"}
 [project.markdown_extensions.pymdownx.mark]
 [project.markdown_extensions.pymdownx.smartsymbols]
 [project.markdown_extensions.pymdownx.superfences]
