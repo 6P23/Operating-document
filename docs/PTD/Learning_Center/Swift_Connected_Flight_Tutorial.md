@@ -27,6 +27,14 @@ Swift Connected Flight Tutorial
 
 ## 第一章 连飞软件的安装及配置
 
+!!! Note "注意了解"
+
+	在开始前，如果您觉得本教材太长不想看或者其他原因，可观看由PDAsim连飞平台制作的视频，感谢他们的贡献！
+
+	??? Info "[【模拟飞行】各大模飞软件Swift安装使用教程，即刻享受联飞的快乐！](https://www.bilibili.com/video/BV13o4y1M7yd/) - 04:45 @ [梦笙爱你呀](https://space.bilibili.com/2027101998)"
+		
+		<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=401682763&bvid=BV13o4y1M7yd&cid=1146222569&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 5000px;height: 450px; border-radius: 15px;"></iframe>
+
 ### 1 下载所需文件
 
 #### 1.1 Swift客户端

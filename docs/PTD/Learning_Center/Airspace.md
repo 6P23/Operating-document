@@ -4,6 +4,12 @@ Airspace
 
 
 
+## 空域分类示意图
+
+![航路_1.4](./assets/Schematic_Diagram_of_Airspace_Classification.jpeg)
+
+
+
 ## 空域定义
 
 依据航空器飞行规则和性能要求、空域环境、空管服 务内容等要素，将空域划分为：
@@ -223,10 +229,6 @@ A、B、C、D、E、G 类空域明确的飞行要求适用 有人驾驶航空器
 - 当平 均海平面高度900米以下或真高300米以下两者取较高值时，能见度不小于5 千米、云外飞行。
 
 
-
-## 空域分类示意图
-
-![航路_1.4](./assets/Schematic_Diagram_of_Airspace_Classification.jpeg)
 
 ## 参考资料
 

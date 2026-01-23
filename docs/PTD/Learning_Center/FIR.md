@@ -4,6 +4,12 @@ Flight information region
 
 
 
+## 中国民航飞行情报区划分示意图
+
+![Schematic_diagram_of_flight_information_region](./assets/Schematic_diagram_of_flight_information_region.png)
+
+
+
 ## 飞行情报区定义
 
 飞行情报区（Flight Information Region，FIR）是由国际民航组织所划定，区分各国家在该区的航管及航空情报服务的责任区。范围除了该国的领空外，通常还包括了邻近的公海上方空域。与防空识别区不同的是，飞行情报区主要是以航管及飞行情报服务为主，有时因为特别的原因会切入邻国领空。
@@ -15,10 +21,6 @@ Flight information region
 飞行情报区的命名，并不以国家、省份名称命名，而以该区的飞行情报区管制中心（区管中心）所在地或区管中心的名称为命名，例如：管制香港及澳门空域的“香港飞行情报区”、管制两广地区空域的“广州飞行情报区”、管制日本空域的“福冈飞行情报区”、管制台湾的“台北飞行情报区”等。亦有例外情况，如厦门管制区的管制中心设于厦门市，而厦门管制区却另由上海飞行情报区管理。
 
 
-
-## 中国民航飞行情报区划分示意图
-
-![Schematic_diagram_of_flight_information_region](./assets/Schematic_diagram_of_flight_information_region.png)
 
 
 

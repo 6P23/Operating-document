@@ -4,6 +4,12 @@ RVSM Metric Flight Level
 
 
 
+## RVSM 飞行高度层示意图
+
+![Schematic_diagram_of_RVSM_flight_level](./assets/Schematic_diagram_of_RVSM_flight_level.png)
+
+
+
 ## 历史背景
 
 在1958年，在管制空域内的标准飞航垂直间隔距离以空层FL290为分界。
@@ -35,12 +41,6 @@ RVSM：
 在实行RVSM运行的空域内（RVSM空域），在FL290至FL410（包含这两个高度层）之间的垂直间隔标准由2000ft缩小到1000ft。
 
 按照这样的标准从事的飞行活动称之为RVSM飞行。
-
-
-
-## RVSM 飞行高度层示意图
-
-![Schematic_diagram_of_RVSM_flight_level](./assets/Schematic_diagram_of_RVSM_flight_level.png)
 
 
 
