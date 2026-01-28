@@ -23,7 +23,8 @@
 - [飞行情报区](../../PTD/Learning_Center/FIR/)
 - [空域](../../PTD/Learning_Center/Airspace/)
 - [班机航路的查询教程](../../PTD/Learning_Center/Airlines_flight_route/)
-- [应答机分配](./Squawk.md- [平行或近似平行跑道运行模式](./Parallel_runway_operations.md)
+- [应答机分配](./Squawk.md)
+- [平行或近似平行跑道运行模式](./Parallel_runway_operations.md)
 - [PBN进离场](http://www.caac.gov.cn/XXGK/XXGK/ZCJD/202505/P020250515551921206047.pdf)
 
 
