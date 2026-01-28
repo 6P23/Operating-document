@@ -1,5 +1,6 @@
 # 航空器尾流间隔标准
 
+Wake turbulence separation minima standard
 
 
 ## 一、尾流的形成及其影响
@@ -91,5 +92,5 @@
 
 ## 参考文献
 
-[《中华人民共和国交通运输部令》2022 年第 36 号](https://www.caac.gov.cn/XXGK/XXGK/MHGZ/202303/P020250811508100344431.pdf)
+[民用航空空中交通管理规则.中国民用航空总局.CCAR-93TM-R6](https://www.caac.gov.cn/XXGK/XXGK/MHGZ/202303/P020250811508100344431.pdf)
 
