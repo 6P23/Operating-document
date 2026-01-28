@@ -10,6 +10,8 @@ EuroScope standard operating procedure
 
 若本文件与所引用教程存在差异，应以本文件规定为准。
 
+开始之前，本教程默认您已经查阅过[《Flyatcsim EuroScope 扇区使用教程》](../Learning_Center/References/Flyatcsim%20EuroScope扇区使用教程%20v1.2.pdf)，例如：ES的安装等最基础的操作，本SOP将**不再赘述**。
+
 ## 航前准备
 
 每一位管制员在上管之前，都应该查看有关[ES版本](#es)、[SOP](#sop)、[Loa](#loa)、[航行资料汇编（航图）](#_3)、[最新的扇区](#_4)。
@@ -74,7 +76,7 @@ EuroScope软件在连接至APOCFLY网络前，必须前往：[网盘下载](http
     - 如果是日常上管选择 Direct to VATSIM；
     - 模拟机训练选择 Start Simulator/Sweatbox simulator session；
 - 在上管前，提前查阅SOP、航图等航前资料，准备好后再上管。
-- Callsign处：必须通过"▽"进行席位的**选择**，禁止填写。
+- Callsign处：必须通过"▽"进行席位的**选择**，不要填写。
 
 	!!! Note "注意了解"
 	
@@ -167,13 +169,18 @@ EuroScope软件在连接至APOCFLY网络前，必须前往：[网盘下载](http
 
 ### 部署ATIS
 
+++lbutton_cn++ 其中一个即可打开以下窗口。
+
 示意图如下：
 
 ![Snipaste_2026-01-23_21-03-01](./assets/Snipaste_2026-01-23_21-03-01.png)
 
-按照上图的流程进行制作ATIS。
+按照上图的示意图进行制作ATIS。
+
 !!! Note "注意了解"
 
+	同样的，在这里的席位也使用"▽"进行席位的**选择**，不要填写。
+	
 	如果该机场的METAR报文，您的ES无法获取到，则可以不对此机场架设。
 
 ![Snipaste_2026-01-23_21-07-42](./assets/Snipaste_2026-01-23_21-07-42.png)
@@ -184,7 +191,13 @@ EuroScope软件在连接至APOCFLY网络前，必须前往：[网盘下载](http
 
 ![Snipaste_2026-01-23_22-02-05.png](./assets/Snipaste_2026-01-23_22-02-05.png)
 
-[//]: # (<iframe><audio src="./assets/new_atis.wav"></audio></iframe>)
+在ATIS更新后，会听到清脆的一声ATIS更新，这个时候需要在频率里面广播：
+
+```
+全体机组，XX机场通波X有效。
+
+All station, All station, XX Airport, Information X is available.
+```
 
 ## DCL放行教程
 

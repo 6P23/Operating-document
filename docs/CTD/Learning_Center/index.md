@@ -16,15 +16,15 @@
 
 塔台管制：
 
-- [陆空对话（空中交通无线电通话用语）](../../PTD/Learning_Center/Radiotelephony_Communications_for_Air_Traffic_Services.md)
-- [Metar报文解读](../../PTD/Learning_Center/References/国际气象报文解码.pdf)
-- [eAIP航图解读](../../PTD/Learning_Center/References/航图识读.pdf)
-- [RVSM飞行高度层](../../PTD/Learning_Center/RVSM_flight_level.md)
-- [民用航空空中交通管理规则](./References/CCAR-93TM-R6.pdf)
-- [EuroScope使用教程](./References/Flyatcsim EuroScope扇区使用教程 v1.2.pdf)
-- [飞行情报区](../../PTD/Learning_Center/FIR.md)
-- [空域](../../PTD/Learning_Center/Airspace.md)
-- [班机航路的使用和查询](../../PTD/Learning_Center/Airlines_flight_route.md)
+- [陆空对话（空中交通无线电通话用语）](../../PTD/Learning_Center/Radiotelephony_Communications_for_Air_Traffic_Services/)
+- [Metar报文解读](../../PTD/Learning_Center/References/%E5%9B%BD%E9%99%85%E6%B0%94%E8%B1%A1%E6%8A%A5%E6%96%87%E8%A7%A3%E7%A0%81.pdf)
+- [eAIP航图解读](../../PTD/Learning_Center/References/%E8%88%AA%E5%9B%BE%E8%AF%86%E8%AF%BB.pdf)
+- [RVSM飞行高度层](../../PTD/Learning_Center/RVSM_flight_level/)
+- [飞行情报区](../../PTD/Learning_Center/FIR/)
+- [空域](../../PTD/Learning_Center/Airspace/)
+- [班机航路的查询教程](../../PTD/Learning_Center/Airlines_flight_route/)
+- [应答机分配](./Squawk.md)
+- [PBN进离场](http://www.caac.gov.cn/XXGK/XXGK/ZCJD/202505/P020250515551921206047.pdf)
 
 
 
