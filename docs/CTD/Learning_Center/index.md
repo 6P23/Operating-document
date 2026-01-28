@@ -26,6 +26,7 @@
 - [应答机分配](./Squawk.md)
 - [平行或近似平行跑道运行模式](./Parallel_runway_operations.md)
 - [PBN进离场](http://www.caac.gov.cn/XXGK/XXGK/ZCJD/202505/P020250515551921206047.pdf)
+- [航空器尾流间隔标准](../../PTD/Learning_Center/Wake_turbulence_separation_minima.md)
 
 
 
