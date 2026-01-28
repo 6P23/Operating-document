@@ -25,6 +25,7 @@
 - [飞行情报区](../../PTD/Learning_Center/FIR.md)
 - [空域](../../PTD/Learning_Center/Airspace.md)
 - [班机航路的使用和查询](../../PTD/Learning_Center/Airlines_flight_route.md)
+- [航空器尾流间隔标准](../../PTD/Learning_Center/Wake_turbulence_separation_minima.md)
 
 
 
