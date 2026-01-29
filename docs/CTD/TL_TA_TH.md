@@ -43,7 +43,6 @@ Pressure Datums and TL/TA/TH Altimeter Setting
 >在特定机场、机场地面运行或超低空进近在此高度以下使用场面气压（QFE）
 
 
-
 ### （三）过渡高度层（TL|Transition level）
 
 指为有关机场规定的过渡高或者过渡高度以上可用的最低飞行高度层。
