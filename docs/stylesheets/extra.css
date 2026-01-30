@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'EuroScope'; /* 1. 自定义字体名称 */
+  src: url('./fonts/EuroScope.woff2') format('woff2'), /* 2. 字体路径 */
+       url('./fonts/EuroScope.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SarasaUiSC-Regular'; /* 1. 自定义字体名称 */
+  src: url('./fonts/SarasaUiSC-Regular.woff2') format('woff2'), /* 2. 字体路径 */
+       url('./fonts/SarasaUiSC-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  --md-code-font: "EuroScope";
+  -md-text-font: "SarasaUiSC-Regular";
+}

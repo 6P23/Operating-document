@@ -3,8 +3,9 @@ homepage = "https://www.apocfly.com"
 
 [project.theme]  # 项目主题
 variant = "modern"
-font.code = "JetBrains Mono"
-fonts = "JetBrains Mono"
+#font.code = "JetBrains Mono"
+#font.text = "Noto Sans Simplified Chinese"
+#fonts = "JetBrains Mono"
 language = "zh"
 direction = "ltr"  # left to right 自作向右 阅读
 favicon = "images/Logo.svg"
@@ -62,6 +63,8 @@ copyright = """本项目的全部文字在 <a href="https://creativecommons.org/
 # extra_javascript = ["javascripts/feedback.js"]  # 反馈js
 
 # use_directory_urls = false # 在任意文档的URL后加入.html, 避免错误
+
+extra_css = ["stylesheets/extra.css"] # 引入外部css
 
 # 设置目录
 nav = [
