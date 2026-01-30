@@ -19,6 +19,7 @@
 - [陆空对话（空中交通无线电通话用语）](../../PTD/Learning_Center/Radiotelephony_Communications_for_Air_Traffic_Services/)
 - [Metar报文解读](../../PTD/Learning_Center/References/%E5%9B%BD%E9%99%85%E6%B0%94%E8%B1%A1%E6%8A%A5%E6%96%87%E8%A7%A3%E7%A0%81.pdf)
 - [eAIP航图解读](../../PTD/Learning_Center/References/%E8%88%AA%E5%9B%BE%E8%AF%86%E8%AF%BB.pdf)
+- [气压基准与TL、TA、TH及高度表拨正](./TL_TA_TH.md)
 - [RVSM飞行高度层](../../PTD/Learning_Center/RVSM_flight_level/)
 - [飞行情报区](../../PTD/Learning_Center/FIR/)
 - [空域](../../PTD/Learning_Center/Airspace/)
@@ -26,7 +27,7 @@
 - [应答机分配](./Squawk.md)
 - [平行或近似平行跑道运行模式](./Parallel_runway_operations.md)
 - [PBN进离场](http://www.caac.gov.cn/XXGK/XXGK/ZCJD/202505/P020250515551921206047.pdf)
-- [航空器尾流间隔标准](../Wake_turbulence_separation_minima.md)
+- [航空器尾流间隔标准](./Wake_turbulence_separation_minima.md)
 
 
 程序管制：

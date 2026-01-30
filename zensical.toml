@@ -117,8 +117,8 @@ nav = [
         ]}
     ]},
     {"标准运行程序·SOP" = [
-#        "CTD/SOP/index.md",
         {"管制员训练部" = [
+            "CTD/SOP/index.md",
             {"EuroScope 标准操作流程" = "CTD/SOP/EuroScope.md" },
             {"管制面试 Interview 标准操作流程" = "CTD/SOP/Interview.md"},
             {"在线管理员 Supervisor 标准操作流程" = "CTD/SOP/Supervisor.md"},
